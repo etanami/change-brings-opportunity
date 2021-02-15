@@ -43,7 +43,9 @@ footer p {
 @media (min-width: 992px) {
   #intro,
   #foundational-knowledge,
-  #advanced-training {
+  #advanced-training,
+  #monthly-value,
+  #members {
     padding-right: 15%;
     padding-left: 15%;
   }
@@ -57,4 +59,8 @@ li {
 
 .intro-header {
   font-size: 4rem;
+}
+
+a:hover {
+  text-decoration: none;
 }

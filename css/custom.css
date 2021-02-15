@@ -42,13 +42,15 @@ footer p {
 
 @media (min-width: 992px) {
   #intro,
-  #foundational-knowledge {
+  #foundational-knowledge,
+  #advanced-training {
     padding-right: 15%;
     padding-left: 15%;
   }
 }
 
-p {
+p,
+li {
   font-size: 1.1rem;
   font-weight: 500;
 }

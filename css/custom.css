@@ -45,7 +45,9 @@ footer p {
   #foundational-knowledge,
   #advanced-training,
   #monthly-value,
-  #members {
+  #members,
+  #low-investment,
+  #copyblogger {
     padding-right: 15%;
     padding-left: 15%;
   }
@@ -63,4 +65,12 @@ li {
 
 a:hover {
   text-decoration: none;
+}
+
+.join-copyblogger {
+  background-color: rgba(96, 155, 202, 0.932);
+}
+
+.card-header {
+  border: 1rem rgba(96, 155, 202, 0.932) solid;
 }
